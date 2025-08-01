@@ -1,2 +1,1 @@
-# HangmanReact
-Created with CodeSandbox
+Hangman game built using React in JavaScript
